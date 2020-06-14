@@ -23,8 +23,8 @@ import java.util.Base64;
  */
 public class BlobTriggerJava1 {
 
-    private String apiKey = "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";
-    private String connString = "jdbc:sqlserver://varunopenbanking.database.windows.net:1433;database=openbanking;user=varun@varunopenbanking;password=NarayaN305*;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30";
+    private String apiKey = "xxxxx";
+    private String connString = "xxx";
 
     /**
      * This function will be invoked when a new or updated blob is detected at the specified path. The blob contents are provided as input to this function.
